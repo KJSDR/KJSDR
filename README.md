@@ -1,4 +1,4 @@
-# Bonjour, I'm Killian! 👋
+# Bonjour! 
 
 🎓 **Applied Computer Science Student** at Dominican University of California  
 🌍 **Currently in:** San Francisco, CA | **From:** France 🇫🇷  
