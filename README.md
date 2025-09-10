@@ -10,7 +10,7 @@ I am a computer science student at at Dominican University of California focusin
 
 ## 🛠️ Tech Stack
 
-**Programming Languages:** JavaScript • Python • HTML/CSS • SQL
+**Programming Languages:** C/C++ • JavaScript • Python • HTML/CSS • SQL
 
 **Frameworks & Technologies:** React • Node.js • Django • Vite • MySQL • MongoDB
 
