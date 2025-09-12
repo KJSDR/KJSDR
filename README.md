@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I am a computer science student at at Dominican University of California focusing on learning more about cloud platforms, databases and system design.
+I am a embedded software engineer with a focus on automotive systems and industrial IoT. 
 
 ## 🛠️ Tech Stack
 
