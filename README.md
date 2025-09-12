@@ -1,8 +1,7 @@
 # Bonjour! 
 
-🎓 **Applied Computer Science Student** at Dominican University of California  
+💻 **Embedded Software Engineer** Automotive Systems and Industrial IoT
 🌍 **Currently in:** San Francisco, CA | **From:** France 🇫🇷  
-💻 **Focus:** Backend Development & Full Stack Solutions
 
 ## 🚀 About Me
 
