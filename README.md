@@ -1,5 +1,3 @@
-# Bonjour! 
-
 💻 **Embedded Software Engineer** Automotive Systems and Industrial IoT
 
 🌍 **Currently in:** San Francisco, CA | **From:** France 🇫🇷  
