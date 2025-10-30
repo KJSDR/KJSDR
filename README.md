@@ -6,7 +6,7 @@
 
 ## **About Me**
 
-I am an **Embedded Software Engineer** specializing in **automotive systems, industrial IoT, and real-time embedded development**.  
+**Embedded Software Engineer** specializing in **automotive systems, industrial IoT, and real-time embedded development**.  
 My work focuses on writing efficient C/C++ firmware that bridges hardware and software — from microcontrollers and sensors to embedded Linux systems.  
 I enjoy working on low-level challenges like bus communication, real-time scheduling, and optimizing system performance under resource constraints.  
 
