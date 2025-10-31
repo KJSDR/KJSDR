@@ -12,7 +12,7 @@ My work focuses on writing efficient C/C++ firmware that bridges hardware and so
 ## **Tech Stack**
 
 **Programming Languages:**  
-C • C++ (17/20) • Python (for testing & automation)
+C/C++ • Python
 
 **Embedded Frameworks & Platforms:**  
 FreeRTOS • Zephyr RTOS • Embedded Linux (Buildroot / Yocto) • STM32 • ESP32 • nRF52 • Raspberry Pi
