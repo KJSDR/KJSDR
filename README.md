@@ -1,4 +1,4 @@
-**Embedded Software Engineer** | Automotive Systems and Industrial IoT
+**Embedded Software Engineer**
 
 ---
 
