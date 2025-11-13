@@ -30,8 +30,3 @@ CppUTest • Unity • clang-tidy • MISRA C/C++ • Continuous Integration (Je
 Oscilloscope • Logic Analyzer • Multimeter • Serial Monitor • JTAG / SWD Debugging
 
 ---
-
-## 📫 Let's Connect!
-
-https://www.linkedin.com/in/killian-delamarre-32a892234/
-
