@@ -15,7 +15,7 @@ My work focuses on writing efficient C/C++ firmware that bridges hardware and so
 C/C++ • Python
 
 **Embedded Frameworks & Platforms:**  
-FreeRTOS • Zephyr RTOS • Embedded Linux (Buildroot / Yocto) • STM32 • ESP32 • nRF52 • Raspberry Pi
+FreeRTOS • Zephyr RTOS • Embedded Linux • STM32 • ESP32 • nRF52 • Raspberry Pi
 
 **Communication Protocols:**  
 I²C • SPI • UART • CAN • LIN • BLE • Ethernet • MQTT • Modbus
